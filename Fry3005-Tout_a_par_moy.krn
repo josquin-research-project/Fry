@@ -1,11 +1,11 @@
-!!!COM:	Frye, Walter
-!!!CDT:	<1443-c1474
+!!!COM: Frye, Walter
+!!!CDT: <1443-c1474
 !!!COM2: Binchois
-!!!OTL:	Tout a par moy
-!!!AGN:	Song; Chanson; Rondeau
-!!!SCT:	Fry3005/Bin3070
-!!!SCA:	Fry3005/Bin3070
-!!!voices:	3
+!!!OTL: Tout a par moy
+!!!AGN: Song; Chanson; Rondeau
+!!!SCT: Fry3005/Bin3070
+!!!SCA: Fry3005/Bin3070
+!!!voices: 3
 **kern	**text	**text	**text	**kern	**text	**text	**text	**kern	**text	**text	**text
 *staff3	*staff3	*staff3	*staff3	*staff2	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1	*staff1
 *Ivox	*	*	*	*Ivox	*	*	*	*Ivox	*	*	*
@@ -258,9 +258,9 @@
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: N=signum congruentiae
-!!!ENC:	Jesse Rodin
-!!!END:	2018/01/11/
-!!!EED:	Jesse Rodin
-!!!EEV:	2018/01/18/
-!!!ONB:	Translated from MusicXML and edited on 2018/01/18/ by Craig Sapp
+!!!ENC: Jesse Rodin
+!!!END: 2018/01/11/
+!!!EED: Jesse Rodin
+!!!EEV: 2018/01/18/
+!!!ONB: Translated from MusicXML and edited on 2018/01/18/ by Craig Sapp
 !!muse2ps: C^@{COM}(?)/Binchois?^i2I150v95,95,150z18l2600c180

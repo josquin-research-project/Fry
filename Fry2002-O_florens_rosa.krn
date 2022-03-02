@@ -1,10 +1,10 @@
-!!!COM:	Frye, Walter
-!!!CDT:	<1443-c1474
-!!!OTL:	O-florens rosa
-!!!AGN:	Motet
-!!!SCT:	Fry2002
-!!!SCA:	Fry2002
-!!!voices:	3
+!!!COM: Frye, Walter
+!!!CDT: <1443-c1474
+!!!OTL: O-florens rosa
+!!!AGN: Motet
+!!!SCT: Fry2002
+!!!SCA: Fry2002
+!!!voices: 3
 **kern	**kern	**kern
 *staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox
@@ -604,9 +604,9 @@
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Brad Pickard 05/21/2015
-!!!END:	2015/06/03/
-!!!EED:	Jesse Rodin
-!!!EEV:	2018/01/18/
-!!!ONB:	Translated from MusicXML and edited on 2018/01/18/ by Craig Sapp
+!!!ENC: Brad Pickard 05/21/2015
+!!!END: 2015/06/03/
+!!!EED: Jesse Rodin
+!!!EEV: 2018/01/18/
+!!!ONB: Translated from MusicXML and edited on 2018/01/18/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v95,95,150Q16
